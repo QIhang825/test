@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">企微打卡助手</string>
+    <string name="check_in">上班打卡</string>
+    <string name="check_out">下班打卡</string>
+    <string name="set_time">设置时间</string>
+    <string name="enable_service">启用服务</string>
+    <string name="service_not_enabled">无障碍服务未启用</string>
+    <string name="open_accessibility_settings">打开无障碍设置</string>
+    <string name="clock_in_success">打卡成功</string>
+    <string name="clock_in_failed">打卡失败</string>
+    <string name="notification_channel_name">打卡通知</string>
+    <string name="notification_channel_desc">打卡状态通知</string>
+    <string name="foreground_service_title">打卡助手运行中</string>
+    <string name="foreground_service_text">定时打卡服务正在运行</string>
+    <string name="accessibility_service_description">用于自动操作企业微信进行上下班打卡</string>
+</resources>
